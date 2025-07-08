@@ -1,5 +1,5 @@
 name: ArmorHider
-main: me.seuplugin.ArmorHiderPlugin
+main: me.ahplugin.ArmorHiderPlugin
 version: 1.0
 api-version: 1.20
 depend: [ProtocolLib]
